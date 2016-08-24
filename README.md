@@ -1,0 +1,1 @@
+Clearable EditText is a simple Android project which shows how to create an edit text with a clear button.
